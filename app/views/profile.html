@@ -1,0 +1,10 @@
+<p>{{ message | uppercase }}</p>
+<input type="text" ng-model="message" class="form-control" />
+
+<button ng-click="clickThisShit()">CLICK</button>
+
+<div ng-repeat="hunter in hunters | orderBy:comparator:reverse" style="border: 1px solid;">
+	<p>First name: {{ hunter.fname }}</p>
+	<p>Last name: {{ hunter.lname }}</p>
+	<p>Gender: {{ hunter.gender }}</p>
+</div>

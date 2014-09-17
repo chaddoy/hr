@@ -1,0 +1,109 @@
+<div id="employee-info">
+
+	<h3>Employee Personal Information</h3>
+
+	<div class="row">
+		<div class="col-xs-6">
+			<div class="form-group">
+				<label class="control-label" for="employee-number">Employee No.:</label>
+				<input type="text" ng-model="model.employeeNumber" class="form-control" id="employee-number">
+			</div>
+			<div class="form-group">
+				<label class="control-label" for="fname">First Name</label>
+				<input type="text" ng-model="model.fname" class="form-control" id="fname">
+			</div>
+			<div class="form-group">
+				<label class="control-label" for="mname">Middle Name</label>
+				<input type="text" ng-model="model.mname" class="form-control" id="mname">
+			</div>
+			<div class="form-group">
+				<label class="control-label" for="lname">Last Name</label>
+				<input type="text" ng-model="model.lname" class="form-control" id="lname">
+			</div>
+			<div class="form-group">
+				<label class="control-label" for="nickname">Nick Name</label>
+				<input type="text" ng-model="model.nickname" class="form-control" id="nickname">
+			</div>
+			<div class="form-group">
+				<label class="control-label" for="spouse-name">Spouse Name</label>
+				<input type="text" ng-model="model.spouseName" class="form-control" id="spouse-name">
+			</div>
+		</div>
+		<div class="col-xs-6">
+			<div class="form-group">
+				<label class="control-label" for="birthdate">Date of Birth</label>
+				<input type="text" ng-model="model.birthDate" class="form-control" id="birthdate">
+			</div>
+			<div class="form-group">
+				<label class="control-label" for="gender">Gender</label>
+				<select name="gender" ng-model="model.gender" id="gender">
+					<option>Male</option>
+					<option>Female</option>
+				</select>
+			</div>
+			<div class="form-group">
+				<label class="control-label" for="maiden-name">Maiden Name</label>
+				<input type="text" ng-model="model.maidenName" class="form-control" id="maiden-name">
+			</div>
+			<div class="form-group">
+				<label class="control-label" for="marital-status">Marital Status</label>
+				<select name="maritalStatus" ng-model="model.maritalStatus" id="marital-status">
+					<option>Single</option>
+					<option>Married</option>
+					<option>Widowed</option>
+				</select>
+			</div>
+			<div class="form-group">
+				<label class="control-label" for="tel-number">Telephone No.:</label>
+				<input type="text" ng-model="model.telNumber" class="form-control" id="tel-number">
+			</div>
+			<div class="form-group">
+				<label class="control-label" for="mobile-number">Mobile No.:</label>
+				<input type="text" ng-model="model.mobileNumber" class="form-control" id="mobile-number">
+			</div>
+		</div>
+	</div>
+
+	<h3>Account Information</h3>
+
+	<div class="row">
+		<div class="col-xs-6">
+			<div class="form-group">
+				<label class="control-label" for="username">User Name:</label>
+				<input type="text" ng-model="model.userName" class="form-control" id="username">
+			</div>
+			<div class="form-group">
+				<label class="control-label" for="email">Email:</label>
+				<input type="text" ng-model="model.email" class="form-control" id="email">
+			</div>
+			<div class="form-group">
+				<label class="control-label" for="user-image">User Image:</label>
+				<input type="file" ng-model="model.userImage" class="form-control" id="user-image">
+			</div>
+		</div>
+		<div class="col-xs-6">
+			<div class="form-group">
+				<label class="control-label" for="user-role">User Role:</label>
+				<br>
+				<div class="btn-group">
+					<button class="btn btn-default btn-md dropdown-toggle" type="button" data-toggle="dropdown">
+						Gender <span class="caret"></span>
+					</button>
+					<ul class="dropdown-menu" role="menu">
+						...
+					</ul>
+				</div>
+			</div>
+			<div class="form-group">
+				<label class="control-label" for="password">Password:</label>
+				<input type="text" ng-model="model.employeeNumber" class="form-control" id="password">
+			</div>
+		</div>
+	</div>
+
+	<p>
+		<button type="button" np-click="saveEmployeeInfo()" class="btn btn-primary btn-md">Save</button>
+		<button type="button" class="btn btn-default btn-md">Cancel</button>
+	</p>
+
+</div>

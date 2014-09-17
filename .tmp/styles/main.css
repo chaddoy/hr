@@ -3,17 +3,17 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\000037}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\000037}}
 body {
   background-color: #f8f8f8;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000311}}
 #wrapper {
   width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000315}}
 #page-wrapper {
   padding: 0 15px;
   min-height: 568px;
@@ -21,7 +21,7 @@ body {
 }
 
 @media (min-width: 768px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000322}}
   #page-wrapper {
     position: inherit;
     margin: 0 0 0 250px;
@@ -29,44 +29,44 @@ body {
     border-left: 1px solid #e7e7e7;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000330}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000330}}
 .navbar-top-links li {
   display: inline-block;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000334}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000334}}
 .navbar-top-links li:last-child {
   margin-right: 15px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000338}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000338}}
 .navbar-top-links li a {
   padding: 15px;
   min-height: 50px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000343}}
 .navbar-top-links .dropdown-menu li {
   display: block;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000347}}
 .navbar-top-links .dropdown-menu li:last-child {
   margin-right: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000351}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000351}}
 .navbar-top-links .dropdown-menu li a {
   padding: 3px 20px;
   min-height: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000356}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000356}}
 .navbar-top-links .dropdown-menu li a div {
   white-space: normal;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000362}}
 .navbar-top-links .dropdown-messages,
 .navbar-top-links .dropdown-tasks,
 .navbar-top-links .dropdown-alerts {
@@ -74,81 +74,81 @@ body {
   min-width: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000367}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000367}}
 .navbar-top-links .dropdown-messages {
   margin-left: 5px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000371}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000371}}
 .navbar-top-links .dropdown-tasks {
   margin-left: -59px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000375}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000375}}
 .navbar-top-links .dropdown-alerts {
   margin-left: -123px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000379}}
 .navbar-top-links .dropdown-user {
   right: 0;
   left: auto;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000384}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000384}}
 .sidebar .sidebar-nav.navbar-collapse {
   padding-right: 0;
   padding-left: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000389}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000389}}
 .sidebar .sidebar-search {
   padding: 15px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000393}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000393}}
 .sidebar ul li {
   border-bottom: 1px solid #e7e7e7;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\0000397}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\0000397}}
 .sidebar ul li a.active {
   background-color: #eee;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003101}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003101}}
 .sidebar .arrow {
   float: right;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003105}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003105}}
 .sidebar .fa.arrow:before {
   content: "\f104";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003109}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003109}}
 .sidebar .active > a > .fa.arrow:before {
   content: "\f107";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003113}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003114}}
 .sidebar .nav-second-level li,
 .sidebar .nav-third-level li {
   border-bottom: 0 !important;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003118}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003118}}
 .sidebar .nav-second-level li a {
   padding-left: 37px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003122}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003122}}
 .sidebar .nav-third-level li a {
   padding-left: 52px;
 }
 
 @media (min-width: 768px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003127}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003127}}
   .sidebar {
     z-index: 1;
     position: absolute;
@@ -156,46 +156,46 @@ body {
     margin-top: 51px;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003134}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003136}}
   .navbar-top-links .dropdown-messages,
   .navbar-top-links .dropdown-tasks,
   .navbar-top-links .dropdown-alerts {
     margin-left: auto;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003141}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003141}}
 .btn-outline {
   color: inherit;
   background-color: transparent;
   transition: all .5s;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003147}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003147}}
 .btn-primary.btn-outline {
   color: #428bca;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003151}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003151}}
 .btn-success.btn-outline {
   color: #5cb85c;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003155}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003155}}
 .btn-info.btn-outline {
   color: #5bc0de;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003159}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003159}}
 .btn-warning.btn-outline {
   color: #f0ad4e;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003163}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003163}}
 .btn-danger.btn-outline {
   color: #d9534f;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003167}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003171}}
 .btn-primary.btn-outline:hover,
 .btn-success.btn-outline:hover,
 .btn-info.btn-outline:hover,
@@ -204,65 +204,65 @@ body {
   color: #fff;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003175}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003175}}
 .chat {
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003181}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003181}}
 .chat li {
   margin-bottom: 10px;
   padding-bottom: 5px;
   border-bottom: 1px dotted #999;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003187}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003187}}
 .chat li.left .chat-body {
   margin-left: 60px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003191}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003191}}
 .chat li.right .chat-body {
   margin-right: 60px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003195}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003195}}
 .chat li .chat-body p {
   margin: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003199}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003200}}
 .panel .slidedown .glyphicon,
 .chat .glyphicon {
   margin-right: 5px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003204}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003204}}
 .chat-panel .panel-body {
   height: 350px;
   overflow-y: scroll;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003209}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003209}}
 .login-panel {
   margin-top: 25%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003213}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003213}}
 .flot-chart {
   display: block;
   height: 400px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003218}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003218}}
 .flot-chart-content {
   width: 100%;
   height: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003223}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003227}}
 table.dataTable thead .sorting,
 table.dataTable thead .sorting_asc,
 table.dataTable thead .sorting_desc,
@@ -271,21 +271,21 @@ table.dataTable thead .sorting_desc_disabled {
   background: 0 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003231}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003231}}
 table.dataTable thead .sorting_asc:after {
   content: "\f0de";
   float: right;
   font-family: fontawesome;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003237}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003237}}
 table.dataTable thead .sorting_desc:after {
   content: "\f0dd";
   float: right;
   font-family: fontawesome;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003243}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003243}}
 table.dataTable thead .sorting:after {
   content: "\f0dc";
   float: right;
@@ -293,7 +293,7 @@ table.dataTable thead .sorting:after {
   color: rgba(50, 50, 50, 0.5);
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003250}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003250}}
 .btn-circle {
   width: 30px;
   height: 30px;
@@ -304,7 +304,7 @@ table.dataTable thead .sorting:after {
   line-height: 1.428571429;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003260}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003260}}
 .btn-circle.btn-lg {
   width: 50px;
   height: 50px;
@@ -314,7 +314,7 @@ table.dataTable thead .sorting:after {
   line-height: 1.33;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003269}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003269}}
 .btn-circle.btn-xl {
   width: 70px;
   height: 70px;
@@ -324,86 +324,86 @@ table.dataTable thead .sorting:after {
   line-height: 1.33;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003278}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003278}}
 .show-grid [class^=col-] {
   padding-top: 10px;
   padding-bottom: 10px;
   border: 1px solid #ddd;
-  background-color: #eee !important;
+  background-color: #eeeeee !important;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003285}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003285}}
 .show-grid {
   margin: 15px 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003289}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003289}}
 .huge {
   font-size: 40px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003293}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003293}}
 .panel-green {
   border-color: #5cb85c;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003297}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003297}}
 .panel-green .panel-heading {
   border-color: #5cb85c;
   color: #fff;
   background-color: #5cb85c;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003303}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003303}}
 .panel-green a {
   color: #5cb85c;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003307}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003307}}
 .panel-green a:hover {
   color: #3d8b3d;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003311}}
 .panel-red {
   border-color: #d9534f;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003315}}
 .panel-red .panel-heading {
   border-color: #d9534f;
   color: #fff;
   background-color: #d9534f;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003321}}
 .panel-red a {
   color: #d9534f;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003325}}
 .panel-red a:hover {
   color: #b52b27;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003329}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003329}}
 .panel-yellow {
   border-color: #f0ad4e;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003333}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003333}}
 .panel-yellow .panel-heading {
   border-color: #f0ad4e;
   color: #fff;
   background-color: #f0ad4e;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003339}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003339}}
 .panel-yellow a {
   color: #f0ad4e;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/josephpanuncillo\/hr\/app\/styles\/main\.scss}line{font-family:\00003343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ChaddyChaddoy\/Developments\/hr\/app\/styles\/main\.scss}line{font-family:\00003343}}
 .panel-yellow a:hover {
   color: #df8a13;
 }
